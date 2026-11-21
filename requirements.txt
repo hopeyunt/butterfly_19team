@@ -1,0 +1,12 @@
+# Версии, на которых получены результаты (Google Colab, Tesla T4, Python 3.13)
+torch==2.14.1
+torchvision==0.29.1
+transformers==5.22.1
+accelerate==1.15.0
+pillow==11.3.0
+numpy==2.4.6
+scipy==1.16.3
+pandas==2.2.3
+matplotlib==3.10.0
+tqdm==4.67.3
+requests==2.32.4
