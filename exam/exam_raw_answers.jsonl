@@ -1,0 +1,400 @@
+{"photo_id": 18821, "raw_text": "[]"}
+{"photo_id": 317512, "raw_text": "```json\n[\n\t{\"bbox_2d\": [144, 91, 882, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 111230, "raw_text": "```json\n[\n\t{\"bbox_2d\": [241, 119, 712, 785], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 275369, "raw_text": "```json\n[\n\t{\"bbox_2d\": [335, 154, 817, 872], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 234898, "raw_text": "```json\n[\n\t{\"bbox_2d\": [241, 117, 825, 855], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 303367, "raw_text": "[]"}
+{"photo_id": 229599, "raw_text": "```json\n[\n\t{\"bbox_2d\": [622, 197, 955, 615], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 59045, "raw_text": "```json\n[\n\t{\"bbox_2d\": [358, 375, 497, 583], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18964, "raw_text": "[]"}
+{"photo_id": 18812, "raw_text": "[]"}
+{"photo_id": 396247, "raw_text": "```json\n[\n\t{\"bbox_2d\": [658, 425, 708, 470], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18809, "raw_text": "[]"}
+{"photo_id": 135546, "raw_text": "```json\n[\n\t{\"bbox_2d\": [228, 31, 725, 875], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 54409, "raw_text": "```json\n[\n\t{\"bbox_2d\": [278, 233, 615, 672], \"label\": \"butterfly\"},\n\t{\"bbox_2d\": [475, 412, 744, 831], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18814, "raw_text": "[]"}
+{"photo_id": 326428, "raw_text": "```json\n[\n\t{\"bbox_2d\": [207, 107, 707, 735], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 190850, "raw_text": "```json\n[\n\t{\"bbox_2d\": [412, 125, 928, 842], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 107675, "raw_text": "```json\n[\n\t{\"bbox_2d\": [269, 73, 784, 945], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18816, "raw_text": "[]"}
+{"photo_id": 327770, "raw_text": "```json\n[\n\t{\"bbox_2d\": [378, 519, 580, 650], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 26137, "raw_text": "```json\n[\n\t{\"bbox_2d\": [132, 148, 762, 605], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 232237, "raw_text": "```json\n[\n\t{\"bbox_2d\": [119, 107, 822, 725], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 16577526, "raw_text": "[]"}
+{"photo_id": 18961, "raw_text": "[]"}
+{"photo_id": 287925, "raw_text": "```json\n[\n\t{\"bbox_2d\": [275, 395, 407, 488], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18829, "raw_text": "[]"}
+{"photo_id": 134816, "raw_text": "```json\n[\n\t{\"bbox_2d\": [485, 317, 838, 827], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 30754935, "raw_text": "```json\n[\n\t{\"bbox_2d\": [55, 95, 872, 822], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 23634948, "raw_text": "[]"}
+{"photo_id": 25934, "raw_text": "```json\n[\n\t{\"bbox_2d\": [272, 135, 655, 820], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 280723, "raw_text": "```json\n[\n\t{\"bbox_2d\": [168, 87, 712, 958], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 304315, "raw_text": "[]"}
+{"photo_id": 18831, "raw_text": "[]"}
+{"photo_id": 274826, "raw_text": "```json\n[\n\t{\"bbox_2d\": [267, 148, 918, 840], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166618, "raw_text": "```json\n[\n\t{\"bbox_2d\": [408, 308, 719, 744], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 284833, "raw_text": "```json\n[\n\t{\"bbox_2d\": [65, 157, 847, 811], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 153042, "raw_text": "[]"}
+{"photo_id": 112884, "raw_text": "[]"}
+{"photo_id": 18828, "raw_text": "[]"}
+{"photo_id": 25611, "raw_text": "```json\n[\n\t{\"bbox_2d\": [270, 188, 692, 785], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 317515, "raw_text": "```json\n[\n\t{\"bbox_2d\": [228, 288, 852, 891], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18830, "raw_text": "[]"}
+{"photo_id": 98047, "raw_text": "[]"}
+{"photo_id": 21692950, "raw_text": "[]"}
+{"photo_id": 182439, "raw_text": "[]"}
+{"photo_id": 51920, "raw_text": "```json\n[\n\t{\"bbox_2d\": [180, 235, 644, 760], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 97770, "raw_text": "```json\n[\n\t{\"bbox_2d\": [248, 120, 849, 803], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166606, "raw_text": "```json\n[\n\t{\"bbox_2d\": [291, 139, 743, 958], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 4262772, "raw_text": "```json\n[\n\t{\"bbox_2d\": [385, 169, 654, 555], \"label\": \"butterfly\"},\n\t{\"bbox_2d\": [758, 497, 936, 655], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 111236, "raw_text": "[]"}
+{"photo_id": 234897, "raw_text": "```json\n[\n\t{\"bbox_2d\": [318, 228, 809, 785], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 48409, "raw_text": "```json\n[\n\t{\"bbox_2d\": [372, 356, 512, 552], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18957, "raw_text": "[]"}
+{"photo_id": 28619, "raw_text": "```json\n[\n\t{\"bbox_2d\": [313, 208, 726, 868], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 342746, "raw_text": "```json\n[\n\t{\"bbox_2d\": [114, 67, 780, 875], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 8089733, "raw_text": "[]"}
+{"photo_id": 18842, "raw_text": "[]"}
+{"photo_id": 58250, "raw_text": "```json\n[\n\t{\"bbox_2d\": [268, 283, 671, 756], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 275209, "raw_text": "```json\n[\n\t{\"bbox_2d\": [245, 180, 755, 825], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 98036, "raw_text": "```json\n[\n\t{\"bbox_2d\": [325, 335, 620, 628], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 134039, "raw_text": "[]"}
+{"photo_id": 18834, "raw_text": "[]"}
+{"photo_id": 158791, "raw_text": "```json\n[\n\t{\"bbox_2d\": [343, 340, 625, 800], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 8089757, "raw_text": "[]"}
+{"photo_id": 336074, "raw_text": "[]"}
+{"photo_id": 328129, "raw_text": "```json\n[\n\t{\"bbox_2d\": [100, 181, 758, 648], \"label\": \"butterfly\"},\n\t{\"bbox_2d\": [133, 425, 898, 945], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 112883, "raw_text": "[]"}
+{"photo_id": 229592, "raw_text": "```json\n[\n\t{\"bbox_2d\": [213, 24, 773, 948], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 127113, "raw_text": "[]"}
+{"photo_id": 18807, "raw_text": "[]"}
+{"photo_id": 317520, "raw_text": "[]"}
+{"photo_id": 274884, "raw_text": "```json\n[\n\t{\"bbox_2d\": [305, 165, 682, 728], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 168628, "raw_text": "```json\n[\n\t{\"bbox_2d\": [380, 315, 658, 585], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 206393, "raw_text": "```json\n[\n\t{\"bbox_2d\": [154, 112, 755, 860], \"label\": \"adult butterfly\"}\n]\n```"}
+{"photo_id": 135541, "raw_text": "[]"}
+{"photo_id": 171503, "raw_text": "```json\n[\n\t{\"bbox_2d\": [252, 188, 702, 778], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 184187, "raw_text": "```json\n[\n\t{\"bbox_2d\": [378, 169, 871, 748], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18840, "raw_text": "[]"}
+{"photo_id": 401491, "raw_text": "[]"}
+{"photo_id": 345444, "raw_text": "```json\n[\n\t{\"bbox_2d\": [203, 252, 809, 752], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 21751625, "raw_text": "[]"}
+{"photo_id": 255364, "raw_text": "```json\n[\n\t{\"bbox_2d\": [162, 258, 505, 772], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166586, "raw_text": "```json\n[\n\t{\"bbox_2d\": [298, 237, 714, 875], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 255366, "raw_text": "```json\n[\n\t{\"bbox_2d\": [61, 183, 960, 825], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 290568, "raw_text": "[]"}
+{"photo_id": 8402783, "raw_text": "[]"}
+{"photo_id": 168626, "raw_text": "```json\n[\n\t{\"bbox_2d\": [250, 202, 704, 845], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 183852, "raw_text": "```json\n[\n\t{\"bbox_2d\": [108, 129, 880, 852], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 112891, "raw_text": "[]"}
+{"photo_id": 18959, "raw_text": "[]"}
+{"photo_id": 97772, "raw_text": "```json\n[\n\t{\"bbox_2d\": [322, 81, 752, 767], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 119736, "raw_text": "[]"}
+{"photo_id": 325517, "raw_text": "[]"}
+{"photo_id": 18819, "raw_text": "[]"}
+{"photo_id": 18958, "raw_text": "[]"}
+{"photo_id": 250231, "raw_text": "```json\n[\n\t{\"bbox_2d\": [127, 48, 852, 895], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 411690, "raw_text": "```json\n[\n\t{\"bbox_2d\": [47, 47, 870, 999], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 156404, "raw_text": "```json\n[\n\t{\"bbox_2d\": [243, 169, 775, 517], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 28616, "raw_text": "```json\n[\n\t{\"bbox_2d\": [182, 107, 864, 858], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 21683020, "raw_text": "[]"}
+{"photo_id": 220531, "raw_text": "[]"}
+{"photo_id": 229595, "raw_text": "```json\n[\n\t{\"bbox_2d\": [651, 645, 905, 923], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166599, "raw_text": "```json\n[\n\t{\"bbox_2d\": [555, 156, 775, 725], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 139135, "raw_text": "```json\n[\n\t{\"bbox_2d\": [222, 58, 914, 927], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 7863689, "raw_text": "[]"}
+{"photo_id": 234899, "raw_text": "```json\n[\n\t{\"bbox_2d\": [109, 157, 908, 835], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 279693, "raw_text": "```json\n[\n\t{\"bbox_2d\": [258, 197, 550, 808], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18841, "raw_text": "[]"}
+{"photo_id": 52109, "raw_text": "```json\n[\n\t{\"bbox_2d\": [135, 178, 898, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166588, "raw_text": "```json\n[\n\t{\"bbox_2d\": [180, 0, 955, 999], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18813, "raw_text": "[]"}
+{"photo_id": 213354, "raw_text": "```json\n[\n\t{\"bbox_2d\": [85, 90, 955, 922], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 255365, "raw_text": "```json\n[\n\t{\"bbox_2d\": [211, 180, 622, 780], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 171527, "raw_text": "```json\n[\n\t{\"bbox_2d\": [178, 191, 962, 821], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 220512, "raw_text": "[]"}
+{"photo_id": 21714693, "raw_text": "[]"}
+{"photo_id": 23601332, "raw_text": "[]"}
+{"photo_id": 166014, "raw_text": "```json\n[\n\t{\"bbox_2d\": [169, 70, 671, 825], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 119726, "raw_text": "```json\n[\n\t{\"bbox_2d\": [309, 248, 628, 808], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 184340, "raw_text": "```json\n[\n\t{\"bbox_2d\": [262, 188, 677, 544], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 23634804, "raw_text": "[]"}
+{"photo_id": 18847, "raw_text": "[]"}
+{"photo_id": 60570, "raw_text": "```json\n[\n\t{\"bbox_2d\": [122, 131, 955, 707], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 52156, "raw_text": "```json\n[\n\t{\"bbox_2d\": [304, 115, 907, 707], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18846, "raw_text": "[]"}
+{"photo_id": 256644, "raw_text": "```json\n[\n\t{\"bbox_2d\": [388, 127, 653, 605], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 178190, "raw_text": "```json\n[\n\t{\"bbox_2d\": [380, 125, 855, 616], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 139134, "raw_text": "```json\n[\n\t{\"bbox_2d\": [258, 155, 838, 811], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 22304124, "raw_text": "[]"}
+{"photo_id": 184565, "raw_text": "```json\n[\n\t{\"bbox_2d\": [202, 230, 856, 635], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 3802960, "raw_text": "[]"}
+{"photo_id": 327850, "raw_text": "```json\n[\n\t{\"bbox_2d\": [231, 82, 911, 855], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 523030, "raw_text": "```json\n[\n\t{\"bbox_2d\": [478, 645, 665, 712], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18815, "raw_text": "[]"}
+{"photo_id": 149812, "raw_text": "```json\n[\n\t{\"bbox_2d\": [252, 244, 831, 712], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 234902, "raw_text": "```json\n[\n\t{\"bbox_2d\": [14, 175, 797, 852], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 326509, "raw_text": "```json\n[\n\t{\"bbox_2d\": [191, 155, 833, 922], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 197965, "raw_text": "```json\n[\n\t{\"bbox_2d\": [428, 335, 828, 782], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 135576, "raw_text": "[]"}
+{"photo_id": 256649, "raw_text": "```json\n[\n\t{\"bbox_2d\": [372, 328, 655, 740], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 527798, "raw_text": "```json\n[\n\t{\"bbox_2d\": [355, 520, 525, 650], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 190809, "raw_text": "```json\n[\n\t{\"bbox_2d\": [412, 253, 715, 730], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 190804, "raw_text": "[]"}
+{"photo_id": 171520, "raw_text": "```json\n[\n\t{\"bbox_2d\": [233, 197, 465, 645], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 50012, "raw_text": "```json\n[\n\t{\"bbox_2d\": [347, 225, 912, 625], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18963, "raw_text": "[]"}
+{"photo_id": 111670, "raw_text": "[]"}
+{"photo_id": 183845, "raw_text": "```json\n[\n\t{\"bbox_2d\": [356, 315, 658, 619], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 135600, "raw_text": "```json\n[\n\t{\"bbox_2d\": [268, 119, 767, 795], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 48411, "raw_text": "[]"}
+{"photo_id": 62787, "raw_text": "[]"}
+{"photo_id": 19088135, "raw_text": "[]"}
+{"photo_id": 96120, "raw_text": "```json\n[\n\t{\"bbox_2d\": [258, 225, 667, 648], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 401386, "raw_text": "[]"}
+{"photo_id": 112862, "raw_text": "```json\n[\n\t{\"bbox_2d\": [117, 185, 888, 791], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 229596, "raw_text": "```json\n[\n\t{\"bbox_2d\": [0, 0, 825, 920], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 250228, "raw_text": "```json\n[\n\t{\"bbox_2d\": [185, 83, 712, 905], \"label\": \"adult butterfly\"}\n]\n```"}
+{"photo_id": 8548319, "raw_text": "[]"}
+{"photo_id": 209557, "raw_text": "```json\n[\n\t{\"bbox_2d\": [198, 168, 790, 945], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 103970, "raw_text": "```json\n[\n\t{\"bbox_2d\": [375, 322, 612, 664], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 8203609, "raw_text": "[]"}
+{"photo_id": 18832, "raw_text": "[]"}
+{"photo_id": 58522, "raw_text": "[]"}
+{"photo_id": 50230, "raw_text": "[]"}
+{"photo_id": 98033, "raw_text": "```json\n[\n\t{\"bbox_2d\": [328, 248, 685, 885], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 345471, "raw_text": "```json\n[\n\t{\"bbox_2d\": [350, 239, 822, 747], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 290, "raw_text": "[]"}
+{"photo_id": 25883, "raw_text": "```json\n[\n\t{\"bbox_2d\": [25, 0, 687, 871], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 268155, "raw_text": "[]"}
+{"photo_id": 232204, "raw_text": "```json\n[\n\t{\"bbox_2d\": [77, 158, 795, 748], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 220516, "raw_text": "[]"}
+{"photo_id": 18953, "raw_text": "[]"}
+{"photo_id": 244737, "raw_text": "[]"}
+{"photo_id": 18817, "raw_text": "[]"}
+{"photo_id": 166596, "raw_text": "```json\n[\n\t{\"bbox_2d\": [70, 252, 312, 634], \"label\": \"butterfly\"},\n\t{\"bbox_2d\": [712, 175, 912, 625], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 255369, "raw_text": "```json\n[\n\t{\"bbox_2d\": [335, 378, 600, 545], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 184212, "raw_text": "```json\n[\n\t{\"bbox_2d\": [398, 288, 578, 607], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18824, "raw_text": "[]"}
+{"photo_id": 97701, "raw_text": "[]"}
+{"photo_id": 244736, "raw_text": "```json\n[\n\t{\"bbox_2d\": [228, 98, 664, 800], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 345450, "raw_text": "[]"}
+{"photo_id": 97985, "raw_text": "```json\n[\n\t{\"bbox_2d\": [150, 191, 748, 811], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 51918, "raw_text": "[]"}
+{"photo_id": 242374, "raw_text": "```json\n[\n\t{\"bbox_2d\": [125, 201, 930, 699], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 206361, "raw_text": "```json\n[\n\t{\"bbox_2d\": [325, 379, 572, 625], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 214265, "raw_text": "```json\n[\n\t{\"bbox_2d\": [397, 519, 532, 695], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 68115, "raw_text": "```json\n[\n\t{\"bbox_2d\": [290, 235, 697, 719], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 329604, "raw_text": "```json\n[\n\t{\"bbox_2d\": [345, 405, 963, 911], \"label\": \"butterfly\"},\n\t{\"bbox_2d\": [37, 92, 518, 475], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 185676, "raw_text": "[]"}
+{"photo_id": 156381, "raw_text": "```json\n[\n\t{\"bbox_2d\": [233, 211, 558, 495], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 523034, "raw_text": "[]"}
+{"photo_id": 166579, "raw_text": "```json\n[\n\t{\"bbox_2d\": [234, 208, 664, 875], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 252701, "raw_text": "[]"}
+{"photo_id": 227128, "raw_text": "```json\n[\n\t{\"bbox_2d\": [67, 209, 853, 822], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 344568, "raw_text": "```json\n[\n\t{\"bbox_2d\": [155, 149, 816, 755], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 25840, "raw_text": "```json\n[\n\t{\"bbox_2d\": [128, 71, 825, 815], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166607, "raw_text": "```json\n[\n\t{\"bbox_2d\": [338, 395, 620, 785], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 256650, "raw_text": "```json\n[\n\t{\"bbox_2d\": [348, 425, 732, 708], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 166602, "raw_text": "```json\n[\n\t{\"bbox_2d\": [270, 25, 819, 775], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 28598, "raw_text": "```json\n[\n\t{\"bbox_2d\": [180, 120, 838, 865], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 40387, "raw_text": "```json\n[\n\t{\"bbox_2d\": [347, 150, 719, 707], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 97979, "raw_text": "[]"}
+{"photo_id": 58525, "raw_text": "```json\n[\n\t{\"bbox_2d\": [265, 214, 702, 600], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 25627, "raw_text": "```json\n[\n\t{\"bbox_2d\": [175, 202, 692, 800], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 168630, "raw_text": "```json\n[\n\t{\"bbox_2d\": [318, 101, 770, 465], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 168510, "raw_text": "[]"}
+{"photo_id": 115589, "raw_text": "[]"}
+{"photo_id": 18837, "raw_text": "[]"}
+{"photo_id": 97783, "raw_text": "```json\n[\n\t{\"bbox_2d\": [130, 148, 848, 705], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 86053, "raw_text": "[]"}
+{"photo_id": 1688239, "raw_text": "[]"}
+{"photo_id": 180423, "raw_text": "```json\n[\n\t{\"bbox_2d\": [100, 17, 858, 865], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 234896, "raw_text": "[]"}
+{"photo_id": 156389, "raw_text": "```json\n[\n\t{\"bbox_2d\": [380, 219, 702, 602], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 252700, "raw_text": "[]"}
+{"photo_id": 18962, "raw_text": "```json\n[\n\t{\"bbox_2d\": [570, 438, 635, 515], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 26314, "raw_text": "[]"}
+{"photo_id": 256267, "raw_text": "```json\n[\n\t{\"bbox_2d\": [205, 77, 947, 891], \"label\": \"adult butterfly\"}\n]\n```"}
+{"photo_id": 97817, "raw_text": "```json\n[\n\t{\"bbox_2d\": [228, 217, 780, 885], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 384931, "raw_text": "```json\n[\n\t{\"bbox_2d\": [149, 52, 888, 835], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 181863, "raw_text": "```json\n[\n\t{\"bbox_2d\": [114, 200, 920, 800], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 50930, "raw_text": "```json\n[\n\t{\"bbox_2d\": [396, 288, 623, 613], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 134028, "raw_text": "[]"}
+{"photo_id": 225905, "raw_text": "```json\n[\n\t{\"bbox_2d\": [45, 131, 937, 858], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 290730, "raw_text": "```json\n[\n\t{\"bbox_2d\": [148, 67, 878, 828], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 134712, "raw_text": "[]"}
+{"photo_id": 255362, "raw_text": "```json\n[\n\t{\"bbox_2d\": [134, 75, 902, 565], \"label\": \"butterfly\"},\n\t{\"bbox_2d\": [0, 438, 848, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 86077, "raw_text": "```json\n[\n\t{\"bbox_2d\": [288, 235, 675, 497], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 305792, "raw_text": "[]"}
+{"photo_id": 207593, "raw_text": "```json\n[\n\t{\"bbox_2d\": [340, 197, 705, 745], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 119666, "raw_text": "```json\n[\n\t{\"bbox_2d\": [189, 125, 730, 858], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 287803, "raw_text": "[]"}
+{"photo_id": 95914, "raw_text": "```json\n[\n\t{\"bbox_2d\": [197, 180, 755, 765], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 282233, "raw_text": "[]"}
+{"photo_id": 285686, "raw_text": "```json\n[\n\t{\"bbox_2d\": [283, 19, 655, 927], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 213355, "raw_text": "```json\n[\n\t{\"bbox_2d\": [320, 238, 670, 738], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 206395, "raw_text": "[]"}
+{"photo_id": 345503, "raw_text": "```json\n[\n\t{\"bbox_2d\": [292, 82, 725, 645], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 397935, "raw_text": "[]"}
+{"photo_id": 401383, "raw_text": "[]"}
+{"photo_id": 275451, "raw_text": "```json\n[\n\t{\"bbox_2d\": [97, 292, 848, 765], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 158267, "raw_text": "```json\n[\n\t{\"bbox_2d\": [165, 225, 938, 971], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 21688080, "raw_text": "[]"}
+{"photo_id": 1688232, "raw_text": "[]"}
+{"photo_id": 166609, "raw_text": "```json\n[\n\t{\"bbox_2d\": [362, 208, 732, 808], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18808, "raw_text": "[]"}
+{"photo_id": 340593, "raw_text": "```json\n[\n\t{\"bbox_2d\": [305, 208, 709, 625], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 275455, "raw_text": "```json\n[\n\t{\"bbox_2d\": [135, 118, 835, 955], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 135591, "raw_text": "```json\n[\n\t{\"bbox_2d\": [192, 203, 663, 762], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 363523, "raw_text": "[]"}
+{"photo_id": 229600, "raw_text": "```json\n[\n\t{\"bbox_2d\": [394, 68, 842, 705], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 3802561, "raw_text": "[]"}
+{"photo_id": 26332, "raw_text": "```json\n[\n\t{\"bbox_2d\": [231, 231, 785, 815], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18969, "raw_text": "[]"}
+{"photo_id": 62542, "raw_text": "```json\n[\n\t{\"bbox_2d\": [118, 135, 862, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 213693, "raw_text": "```json\n[\n\t{\"bbox_2d\": [111, 177, 895, 850], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 171543, "raw_text": "```json\n[\n\t{\"bbox_2d\": [312, 368, 688, 667], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 97836, "raw_text": "```json\n[\n\t{\"bbox_2d\": [247, 152, 538, 782], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 120420, "raw_text": "[]"}
+{"photo_id": 22013, "raw_text": "```json\n[\n\t{\"bbox_2d\": [65, 105, 819, 750], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 103966, "raw_text": "```json\n[\n\t{\"bbox_2d\": [186, 141, 865, 897], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 25864, "raw_text": "```json\n[\n\t{\"bbox_2d\": [352, 375, 558, 683], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 22212843, "raw_text": "[]"}
+{"photo_id": 150181, "raw_text": "```json\n[\n\t{\"bbox_2d\": [148, 41, 887, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 115591, "raw_text": "[]"}
+{"photo_id": 171523, "raw_text": "```json\n[\n\t{\"bbox_2d\": [352, 325, 652, 800], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 107667, "raw_text": "```json\n[\n\t{\"bbox_2d\": [331, 245, 763, 762], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 328126, "raw_text": "```json\n[\n\t{\"bbox_2d\": [194, 172, 757, 857], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18956, "raw_text": "[]"}
+{"photo_id": 221409, "raw_text": "```json\n[\n\t{\"bbox_2d\": [297, 187, 800, 675], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 86066, "raw_text": "```json\n[\n\t{\"bbox_2d\": [348, 220, 679, 990], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 20168, "raw_text": "[]"}
+{"photo_id": 18952, "raw_text": "[]"}
+{"photo_id": 166920, "raw_text": "```json\n[\n\t{\"bbox_2d\": [256, 200, 665, 662], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 252733, "raw_text": "[]"}
+{"photo_id": 23452178, "raw_text": "[]"}
+{"photo_id": 97975, "raw_text": "[]"}
+{"photo_id": 242776, "raw_text": "```json\n[\n\t{\"bbox_2d\": [414, 288, 708, 658], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 8557047, "raw_text": "[]"}
+{"photo_id": 22263886, "raw_text": "[]"}
+{"photo_id": 256646, "raw_text": "```json\n[\n\t{\"bbox_2d\": [231, 158, 707, 815], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 244686, "raw_text": "```json\n[\n\t{\"bbox_2d\": [270, 325, 755, 767], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 28599, "raw_text": "```json\n[\n\t{\"bbox_2d\": [167, 151, 817, 777], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 232275, "raw_text": "[]"}
+{"photo_id": 52124, "raw_text": "[]"}
+{"photo_id": 82839, "raw_text": "[]"}
+{"photo_id": 319361, "raw_text": "```json\n[\n\t{\"bbox_2d\": [485, 145, 645, 420], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 385241, "raw_text": "[]"}
+{"photo_id": 229594, "raw_text": "```json\n[\n\t{\"bbox_2d\": [166, 20, 700, 962], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 171714, "raw_text": "```json\n[\n\t{\"bbox_2d\": [298, 404, 575, 638], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 327820, "raw_text": "```json\n[\n\t{\"bbox_2d\": [67, 155, 835, 825], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 29106, "raw_text": "[]"}
+{"photo_id": 18827, "raw_text": "[]"}
+{"photo_id": 397933, "raw_text": "[]"}
+{"photo_id": 156373, "raw_text": "```json\n[\n\t{\"bbox_2d\": [17, 208, 592, 862], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 28609, "raw_text": "```json\n[\n\t{\"bbox_2d\": [105, 187, 668, 727], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 26213, "raw_text": "```json\n[\n\t{\"bbox_2d\": [257, 52, 732, 845], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 229598, "raw_text": "```json\n[\n\t{\"bbox_2d\": [240, 97, 748, 845], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 244735, "raw_text": "```json\n[\n\t{\"bbox_2d\": [195, 115, 780, 891], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 171715, "raw_text": "```json\n[\n\t{\"bbox_2d\": [458, 238, 755, 492], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 225051, "raw_text": "```json\n[\n\t{\"bbox_2d\": [208, 134, 652, 845], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18810, "raw_text": "[]"}
+{"photo_id": 18836, "raw_text": "[]"}
+{"photo_id": 55779, "raw_text": "[]"}
+{"photo_id": 22258023, "raw_text": "[]"}
+{"photo_id": 255367, "raw_text": "```json\n[\n\t{\"bbox_2d\": [334, 252, 733, 745], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 74410, "raw_text": "```json\n[\n\t{\"bbox_2d\": [325, 398, 645, 675], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 220529, "raw_text": "[]"}
+{"photo_id": 7863828, "raw_text": "[]"}
+{"photo_id": 220506, "raw_text": "[]"}
+{"photo_id": 18820, "raw_text": "[]"}
+{"photo_id": 279688, "raw_text": "[]"}
+{"photo_id": 134719, "raw_text": "```json\n[\n\t{\"bbox_2d\": [244, 95, 867, 897], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 192506, "raw_text": "```json\n[\n\t{\"bbox_2d\": [280, 243, 652, 717], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 383679, "raw_text": "```json\n[\n\t{\"bbox_2d\": [205, 158, 988, 848], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 396326, "raw_text": "[]"}
+{"photo_id": 325516, "raw_text": "```json\n[\n\t{\"bbox_2d\": [418, 488, 500, 604], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 206394, "raw_text": "```json\n[\n\t{\"bbox_2d\": [370, 627, 615, 860], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 22304259, "raw_text": "[]"}
+{"photo_id": 22389576, "raw_text": "[]"}
+{"photo_id": 98046, "raw_text": "[]"}
+{"photo_id": 55170, "raw_text": "```json\n[\n\t{\"bbox_2d\": [328, 208, 508, 452], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 135564, "raw_text": "```json\n[\n\t{\"bbox_2d\": [319, 165, 689, 687], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 22305385, "raw_text": "```json\n[\n\t{\"bbox_2d\": [700, 405, 756, 447], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 290571, "raw_text": "[]"}
+{"photo_id": 18968, "raw_text": "[]"}
+{"photo_id": 98034, "raw_text": "```json\n[\n\t{\"bbox_2d\": [217, 292, 712, 757], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 3802369, "raw_text": "[]"}
+{"photo_id": 377007, "raw_text": "```json\n[\n\t{\"bbox_2d\": [448, 458, 628, 617], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 238863, "raw_text": "[]"}
+{"photo_id": 22264560, "raw_text": "[]"}
+{"photo_id": 229593, "raw_text": "```json\n[\n\t{\"bbox_2d\": [72, 47, 963, 792], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 103896, "raw_text": "[]"}
+{"photo_id": 8042182, "raw_text": "[]"}
+{"photo_id": 8293616, "raw_text": "[]"}
+{"photo_id": 22304985, "raw_text": "[]"}
+{"photo_id": 58524, "raw_text": "[]"}
+{"photo_id": 206389, "raw_text": "[]"}
+{"photo_id": 127187, "raw_text": "```json\n[\n\t{\"bbox_2d\": [288, 295, 792, 592], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 52782, "raw_text": "[]"}
+{"photo_id": 220517, "raw_text": "[]"}
+{"photo_id": 314941, "raw_text": "[]"}
+{"photo_id": 59086, "raw_text": "[]"}
+{"photo_id": 103871, "raw_text": "```json\n[\n\t{\"bbox_2d\": [415, 243, 607, 717], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 206388, "raw_text": "```json\n[\n\t{\"bbox_2d\": [355, 180, 700, 664], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 316611, "raw_text": "[]"}
+{"photo_id": 326511, "raw_text": "```json\n[\n\t{\"bbox_2d\": [125, 52, 752, 790], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 328125, "raw_text": "```json\n[\n\t{\"bbox_2d\": [208, 268, 835, 788], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 27844, "raw_text": "```json\n[\n\t{\"bbox_2d\": [375, 360, 475, 508], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 255368, "raw_text": "```json\n[\n\t{\"bbox_2d\": [438, 44, 945, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 303335, "raw_text": "[]"}
+{"photo_id": 18838, "raw_text": "[]"}
+{"photo_id": 146223, "raw_text": "```json\n[\n\t{\"bbox_2d\": [372, 285, 623, 622], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 285673, "raw_text": "[]"}
+{"photo_id": 8557161, "raw_text": "[]"}
+{"photo_id": 244688, "raw_text": "```json\n[\n\t{\"bbox_2d\": [319, 299, 647, 667], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 127131, "raw_text": "[]"}
+{"photo_id": 220525, "raw_text": "[]"}
+{"photo_id": 100240, "raw_text": "```json\n[\n\t{\"bbox_2d\": [288, 380, 632, 775], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 282240, "raw_text": "```json\n[\n\t{\"bbox_2d\": [275, 185, 755, 755], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 97785, "raw_text": "```json\n[\n\t{\"bbox_2d\": [202, 91, 858, 875], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18833, "raw_text": "[]"}
+{"photo_id": 23452206, "raw_text": "[]"}
+{"photo_id": 329613, "raw_text": "[]"}
+{"photo_id": 328861, "raw_text": "```json\n[\n\t{\"bbox_2d\": [380, 340, 677, 664], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 302133, "raw_text": "```json\n[\n\t{\"bbox_2d\": [241, 75, 769, 875], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 214269, "raw_text": "```json\n[\n\t{\"bbox_2d\": [265, 191, 644, 567], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 53599, "raw_text": "[]"}
+{"photo_id": 183201, "raw_text": "[]"}
+{"photo_id": 256643, "raw_text": "```json\n[\n\t{\"bbox_2d\": [407, 322, 635, 645], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18967, "raw_text": "[]"}
+{"photo_id": 21946153, "raw_text": "[]"}
+{"photo_id": 396221, "raw_text": "[]"}
+{"photo_id": 25772, "raw_text": "```json\n[\n\t{\"bbox_2d\": [220, 145, 735, 785], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 252732, "raw_text": "```json\n[\n\t{\"bbox_2d\": [280, 262, 782, 752], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 107669, "raw_text": "```json\n[\n\t{\"bbox_2d\": [45, 78, 880, 895], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 244674, "raw_text": "```json\n[\n\t{\"bbox_2d\": [250, 151, 717, 767], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 112903, "raw_text": "[]"}
+{"photo_id": 97820, "raw_text": "```json\n[\n\t{\"bbox_2d\": [175, 277, 700, 762], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18818, "raw_text": "[]"}
+{"photo_id": 23784, "raw_text": "```json\n[\n\t{\"bbox_2d\": [31, 185, 972, 800], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 208868, "raw_text": "```json\n[\n\t{\"bbox_2d\": [165, 200, 812, 747], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 244678, "raw_text": "```json\n[\n\t{\"bbox_2d\": [348, 420, 712, 830], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 287, "raw_text": "[]"}
+{"photo_id": 21751787, "raw_text": "[]"}
+{"photo_id": 46034, "raw_text": "[]"}
+{"photo_id": 8551028, "raw_text": "[]"}
+{"photo_id": 220509, "raw_text": "```json\n[\n\t{\"bbox_2d\": [373, 248, 766, 700], \"label\": \"adult butterfly\"}\n]\n```"}
+{"photo_id": 290550, "raw_text": "[]"}
+{"photo_id": 206377, "raw_text": "[]"}
+{"photo_id": 220522, "raw_text": "[]"}
+{"photo_id": 18822, "raw_text": "[]"}
+{"photo_id": 18811, "raw_text": "[]"}
+{"photo_id": 184859, "raw_text": "```json\n[\n\t{\"bbox_2d\": [134, 19, 820, 867], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 107677, "raw_text": "```json\n[\n\t{\"bbox_2d\": [230, 168, 679, 790], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 18839, "raw_text": "[]"}
+{"photo_id": 82841, "raw_text": "[]"}
+{"photo_id": 58498, "raw_text": "[]"}
+{"photo_id": 256647, "raw_text": "```json\n[\n\t{\"bbox_2d\": [188, 107, 775, 905], \"label\": \"butterfly\"}\n]\n```"}
+{"photo_id": 133599, "raw_text": "```json\n[\n\t{\"bbox_2d\": [107, 59, 872, 772], \"label\": \"butterfly\"}\n]\n```"}
