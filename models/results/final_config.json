@@ -1,0 +1,19 @@
+{
+  "model": "Qwen/Qwen3-VL-2B-Instruct",
+  "revision": "89644892e4d85e24eaac8bacfd4f463576704203",
+  "dtype": "float16",
+  "image": "RGB, уменьшение до 1024 px по длинной стороне (PIL thumbnail)",
+  "generation": {
+    "max_new_tokens": 512,
+    "do_sample": false
+  },
+  "prompt": "Find every adult butterfly in the image. Give each butterfly its own tight box around the visible wings, body and antennae; if butterflies overlap, still box each one separately. Do NOT box moths, caterpillars, pupae, other insects, shadows or flowers. Output JSON only: [{\"bbox_2d\": [x1, y1, x2, y2], \"label\": \"butterfly\"}]. If there is no adult butterfly, output [].",
+  "boxes": "все bbox_2d из ответа, координаты /1000, обрезка до [0,1], без порога и без NMS",
+  "golden_result": {
+    "F1@0.5": 0.88,
+    "precision": 0.946,
+    "recall": 0.823,
+    "F1@0.75": 0.702,
+    "sec_per_photo_T4": 2.67
+  }
+}
