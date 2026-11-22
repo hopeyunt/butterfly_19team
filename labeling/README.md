@@ -32,6 +32,7 @@
 
 ## Выгрузки
 
+- [tasks_input.tsv](tasks_input.tsv) — входной файл пула в Яндекс Заданиях: 400 фото (`INPUT:photo_id`, `INPUT:image`).
 - [Ответы исполнителей](bbox_answers.jsonl): 463 записи. Поля: `photo_id`, `pool`, `platform_status`, `status`, `boxes`. Координаты в долях ширины и высоты изображения.
 - [Вердикты ревью](review_votes.jsonl): 716 записей. Поля: `photo_id`, `verdict`, `issues`; в ошибках указаны тип и номера рамок, начиная с 1. По каждому кадру два вердикта относятся к исходной разметке пула `6866915`.
 - [Итоговые рамки](../data/golden_set.jsonl), [история меток](../data/provenance.jsonl) и [источники фото](../data/manifest.csv).
